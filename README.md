@@ -28,3 +28,4 @@ To run the survey portal locally:
 </p>
 
 ## 🖼️ Interface Preview
+![image](https://github.com/sharukat/docchameleon-user-study-platform/blob/a1797cf51249de8e2ff37833d521c88eda923fd0/docs/user_study_portal.jpg)
